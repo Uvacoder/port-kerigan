@@ -124,7 +124,7 @@ export default {
       },
       projects: {
         header: 'projects',
-        subtext: 'this page lists some of my personal and work projects. every project has some story, click on the title to read'
+        subtext: 'this page lists some of my personal and work projects'
       },
       recommendations: {
         header: 'recommendations',
