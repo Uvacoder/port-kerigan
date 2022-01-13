@@ -40,8 +40,8 @@ export default {
     enabled: false,
   },
   resume: {
-    enabled: false,
-    // pdfUrl: '/RESUME_GYAN_KARN_DARK.pdf' // add files in static folder
+    enabled: true,
+    pdfUrl: '/RESUME_KAUSHAL.pdf' // add files in static folder
   },
   uses: {
     enabled: true,
