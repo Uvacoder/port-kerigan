@@ -41,7 +41,7 @@ export default {
   },
   resume: {
     enabled: true,
-    pdfUrl: '/RESUME_KAUSHAL.pdf' // add files in static folder
+    pdfUrl: '/kaushal_resume.pdf' // add files in static folder
   },
   uses: {
     enabled: true,
