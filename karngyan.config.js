@@ -6,8 +6,8 @@ export default {
   image: '/images/bigheadkarngyan.png',
   email: 'kaushalkr27@gmail.com',
   googleAnalyticsV4: {
-    enabled: false,
-    id: ''
+    enabled: true,
+    id: 'G-25800GCDHZ'
   },
   plausibleAnalytics: {
     enabled: true,
